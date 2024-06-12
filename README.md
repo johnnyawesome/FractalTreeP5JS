@@ -10,5 +10,5 @@ Also, there is a second verison with a [nicer coloring available for this P5JS p
 
 ## Recursion
 
-This tree uses recursion to get it's fractal form.
+This tree uses [recursion](https://en.wikipedia.org/wiki/Recursion_(computer_science)) to get it's fractal form.
 
